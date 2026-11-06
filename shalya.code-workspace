@@ -1,0 +1,15 @@
+{
+    "folders": [
+        {
+            "name": "Shalya - Backend",
+            "path": "."
+        },
+        {
+            "name": "ESP32 Firmware",
+            "path": "esp32-drone"
+        }
+    ],
+    "settings": {
+        "python.defaultInterpreterPath": "${workspaceFolder:Shalya - Backend}/.venv/Scripts/python.exe"
+    }
+}

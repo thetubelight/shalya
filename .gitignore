@@ -1,0 +1,28 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Local ESP32 configuration
+esp32-drone/include/config.hpp
+
+# PlatformIO generated files
+esp32-drone/.pio/
+
+# Local IDE settings
+.vscode/
+esp32-drone/.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
